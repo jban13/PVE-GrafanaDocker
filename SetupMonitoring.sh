@@ -430,6 +430,7 @@ else
         -v "${PROMETHEUS_CONFIG}:/etc/prometheus/prometheus.yml:ro" \
         -v prometheus-data:/prometheus \
         prom/prometheus
+        --config.file=/etc/prometheus/prometheus.yml --storage.tsdb.retention.time=30d --storage.tsdb.path=/prometheus --storage.tsdb.retention.size=10GB 
 fi
 
 log "Grafana installieren"
