@@ -905,5 +905,15 @@ Die Nutzung und Weitergabe dieses Projekts richtet sich nach der im Repository e
 LICENSE
 ```
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=jban13%2Fpve-grafanadocker&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jban13/pve-grafanadocker&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jban13/pve-grafanadocker&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jban13/pve-grafanadocker&type=date&legend=top-left" />
+ </picture>
+</a>
+
 Vor einer produktiven Verwendung sollten das Installationsskript und die Konfigurationen geprüft und an die eigene Umgebung angepasst werden.
 ``
